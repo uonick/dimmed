@@ -1,5 +1,5 @@
 {
-	"schema_version": "0.2.1",
+	"schema_version": "0.3",
 	"packages": [
 		{
 			"name": "Dimmed Theme",
@@ -10,7 +10,7 @@
 			"platforms": {
 				"*": [
 					{
-						"version": "0.2.1",
+						"version": "0.3",
 						"url": "https://github.com/uonick/dimmed/packages.json"
 					}
 				]
