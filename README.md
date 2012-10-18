@@ -1,6 +1,6 @@
 # Dimmed Theme
 
-Легкая тема для редактора [Sublime Text 2] (http://www.sublimetext.com/)
+Легкая тема для редактора [Sublime Text 2] (http://www.sublimetext.com/2)
 
 ## Скриншоты
 
