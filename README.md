@@ -1,6 +1,6 @@
 # Dimmed Theme
 
-Легкая тема для редактора Sublime Text 2
+Легкая тема для редактора [Sublime Text 2] (http://www.sublimetext.com/)
 
 ## Скриншоты
 
@@ -21,6 +21,7 @@
 ## Ссылки
 
 [Download .ZIP] (https://github.com/uonick/dimmed/zipball/master)
+
 [Website] (http://uonick.github.com/dimmed/)
 
 ## Лицензия
