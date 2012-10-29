@@ -14,9 +14,9 @@
 
 ## Ручная установка
 
-* Скачайте zip архив с сайта github
+* Скачайте [zip архив]  (https://github.com/uonick/dimmed/zipball/master) с сайта github
 * Распакуйет в папку `Packages/User` или `Packages/Dimmed - Theme`
-* Активируйте в меню тем в Sublime Text 2
+* Активируйте в меню `Sublime Text 2 -> Preferences -> Color Scheme -> Dimmed Color Scheme`
 
 ## Ссылки
 
