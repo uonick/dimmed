@@ -7,6 +7,7 @@ Light theme for a [Sublime Text 2] (http://www.sublimetext.com/2)
 ![Screen1](http://cloud.github.com/downloads/uonick/dimmed/dimmed_gh1.png)
 
 ![Screen2](http://cloud.github.com/downloads/uonick/dimmed/dimmed_gh2.png)
+![Monokai](https://github.com/uonick/dimmed/blob/gh-pages/images/monokai.png?raw=true)
 
 ## Install
 
