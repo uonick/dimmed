@@ -1,0 +1,8 @@
+Dimmed Color Theme 0.4 Changelog:
+
+New Features
+ + Added new custom color scheme (Monokai)
+ 
+ 
+ //Thank you for using Dimmed Themes!
+ //uonick
