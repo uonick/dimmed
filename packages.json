@@ -5,7 +5,11 @@
 			"name": "Dimmed Theme",
 			"description": "Dimmed Theme for Sublime Text 2",
 			"author": "uonick",
+<<<<<<< HEAD
 			"homepage": "http://uonick.github.com/dimmed/",
+=======
+			"homepage": "https://github.com/uonick/dimmed",
+>>>>>>> 9b74e0088c16142eede8c2417a28066deb1a5cd8
 			"last_modified": "2013-02-06 22:35:36",
 			"platforms": {
 				"*": [
