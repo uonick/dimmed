@@ -1,3 +1,4 @@
+ver. 0.5
 * All themes has been updated to clear versions
 * New colors
 * Some fixes
