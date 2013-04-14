@@ -2,26 +2,22 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>Dimmed - Monokai</string>
+	<string>Dimmed</string>
 	<key>name</key>
-	<string>Dimmed - Monokai</string>
+	<string>Dimmed</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1e1e1e</string>
+				<string>#ffffff</string>
 				<key>caret</key>
-				<string>#373737</string>
+				<string>#a9b7c6</string>
 				<key>foreground</key>
-				<string>#C5C8C6</string>
-				<key>invisibles</key>
-				<string>#4B4E55</string>
-				<key>lineHighlight</key>
-				<string>#282A2E</string>
+				<string>#5d5d5d</string>
 				<key>selection</key>
-				<string>#373B41</string>
+				<string>#E3FC8D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -56,7 +52,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9AA83A</string>
+				<string>#a5c25c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +66,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#D08442</string>
+				<string>#cb602d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -114,7 +110,7 @@
 				<key>foreground</key>
 				<string>#8080FF</string>
 				<key>background</key>
-				<string>#1e1e1e</string>
+				<string>#F2F2FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -170,9 +166,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9B0000</string>
-				<key>background</key>
-				<string>#1E1E1E</string>
+				<string>#6089B4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,9 +192,9 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>
-    </string>
+     bold</string>
 				<key>foreground</key>
-				<string>#CE6700</string>
+				<string>#cb602d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -303,20 +297,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Meta Brace</string>
-			<key>scope</key>
-			<string>punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
-				<key>foreground</key>
-				<string>#008200</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Invalid</string>
 			<key>scope</key>
 			<string>invalid</string>
@@ -331,6 +311,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Meta Brace</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>
+    </string>
+				<key>foreground</key>
+				<string>#a5c25c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Normal Variable</string>
 			<key>scope</key>
 			<string>variable.other.php, variable.other.normal</string>
@@ -340,7 +334,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#6089b4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -354,7 +348,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#0080FF</string>
+				<string>#6089b4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -438,7 +432,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9AA83A</string>
+				<string>#a5c25c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -452,7 +446,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9AA83A</string>
+				<string>#a5c25c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -519,7 +513,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9AA83A</string>
+				<string>#a5c25c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -533,7 +527,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9AA83A</string>
+				<string>#a5c25c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -625,7 +619,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9AA83A</string>
+				<string>#a5c25c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -650,7 +644,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#D08442</string>
+				<string>#cb602d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -664,7 +658,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9AA83A</string>
+				<string>#a5c25c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -703,7 +697,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D08442</string>
+				<string>#cb602d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -717,7 +711,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#D0B344</string>
+				<string>#e8bc7b</string>
 			</dict>
 		</dict>
 	</array>
