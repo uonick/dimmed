@@ -1,0 +1,25 @@
+ ** Dimmed Color Theme for Sublime Text 2/3 **
+ 
+ 
+Install
+--------
+With the Package Control plugin: The easiest way to install Dimmed Theme is through Package Control, which can be found at this site: http://wbond.net/sublime_packages/package_control
+
+Once you install Package Control, restart ST2/3 and bring up the Command Palette (Command+Shift+P on OS X, Control+Shift+P on Linux/Windows). Select "Package Control: Install Package", wait while Package Control fetches the latest package list, then select Dimmed when the list appears. The advantage of using this method is that Package Control will automatically keep Dimmed Theme up to date with the latest version.
+
+Manual Install
+--------
+1. Download zip file (https://github.com/uonick/dimmed/zipball/master) from github
+2. Extract to "/Packages/User/Dimmed" in ST2 and "Installed Packages/" in ST3
+3. Select theme from Preferences -> Color Scheme -> Dimmed Color Scheme -> dimmed (or dimmed-monokai)
+Enjoy! =)
+
+
+Credits
+--------
+Editor: http://tmtheme-editor.herokuapp.com/
+WWW: http://uonick.github.io/dimmed/
+GitHub: https://github.com/uonick/
+My blog: http://blog.uonick.me
+Portfolio: http://uonick.me
+
