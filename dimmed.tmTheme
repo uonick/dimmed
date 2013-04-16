@@ -18,6 +18,8 @@
 				<string>#5d5d5d</string>
 				<key>selection</key>
 				<string>#E3FC8D</string>
+				<key>lineHighlight</key>
+        <string>#F9F9F9</string>
 			</dict>
 		</dict>
 		<dict>
