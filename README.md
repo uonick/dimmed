@@ -1,4 +1,4 @@
-# Dimmed Theme
+# Dimmed Color Scheme
 
 Light theme for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 
