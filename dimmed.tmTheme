@@ -19,7 +19,7 @@
 				<key>selection</key>
 				<string>#E3FC8D</string>
 				<key>lineHighlight</key>
-        <string>#F9F9F9</string>
+				<string>#F9F9F9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -54,7 +54,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#718c00</string>
+				<string>#9aa83a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -322,7 +322,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#556a00</string>
+				<string>#9aa83a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -448,7 +448,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#718c00</string>
+				<string>#9aa83a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -515,7 +515,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#718c00</string>
+				<string>#9aa83a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -529,7 +529,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#718c00</string>
+				<string>#9aa83a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -621,7 +621,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#718c00</string>
+				<string>#9aa83a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -660,7 +660,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#a5c25c</string>
+				<string>#9aa83a</string>
 			</dict>
 		</dict>
 		<dict>
