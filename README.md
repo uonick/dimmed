@@ -1,6 +1,6 @@
 # Dimmed Theme
 
-Light theme for a [Sublime Text 2] (http://www.sublimetext.com/2)
+Light theme for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 
 ## Screenshots
 ### Dimmed
@@ -20,7 +20,7 @@ Once you install Package Control, restart ST2 and bring up the Command Palette (
 ## Manual Install
 
 * Download  [zip file]  (https://github.com/uonick/dimmed/zipball/master) from github
-* Extract to  `"/Packages/User/Dimmed"`: 
+* Extract to:
 
 * OS X:
 
@@ -34,11 +34,11 @@ Once you install Package Control, restart ST2 and bring up the Command Palette (
 
         %APPDATA%\Sublime Text 2\Packages\User\Dimmed
 
-* Select theme from `Preferences -> Color Scheme -> Dimmed `
+* Select theme from `Preferences -> Color Scheme -> Dimmed Color Scheme -> dimmed or dimmed-monokai`
 
 ## Links
 
 [Download .ZIP] (https://github.com/uonick/dimmed/zipball/master)
 
-[Website] (http://uonick.github.com/dimmed/)
+[Website] (http://uonick.github.io/dimmed/)
 
