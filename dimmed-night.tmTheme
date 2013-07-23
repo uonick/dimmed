@@ -4,22 +4,22 @@
 	<key>comment</key>
 	<string>github.com&#x2f;uonick</string>
 	<key>name</key>
-	<string>Dimmed</string>
+	<string>Dimmed-Night</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ffffff</string>
+				<string>#0c0c0c</string>
 				<key>caret</key>
 				<string>#ed0909</string>
 				<key>foreground</key>
-				<string>#5d5d5d</string>
+				<string>#dddddd</string>
 				<key>selection</key>
 				<string>#E3FC8D</string>
 				<key>lineHighlight</key>
-				<string>#F9F9F9</string>
+				<string>#2d2d2d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -110,9 +110,8 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#8080FF</string>
+				<string>#c4dbec</string>
 				<key>background</key>
-				<string>#F2F2FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -720,7 +719,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.dimmed</string>
+	<string>theme.dark.dimmed</string>
 	<key>author</key>
 	<string>uonick</string>
 </dict>
