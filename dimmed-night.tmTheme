@@ -704,7 +704,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.dimmed</string>
+	<string>theme.dark.dimmed</string>
 	<key>author</key>
 	<string>uonick</string>
 </dict>
