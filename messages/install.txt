@@ -18,8 +18,5 @@ Enjoy! =)
 Credits
 --------
 Editor: http://tmtheme-editor.herokuapp.com/
-WWW: http://uonick.github.io/dimmed/
-GitHub: https://github.com/uonick/
-My blog: http://blog.uonick.me
-Portfolio: http://uonick.me
+WWW: http://uonick.ru
 
