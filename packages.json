@@ -2,15 +2,15 @@
 	"schema_version": "0.4",
 	"packages": [
 		{
-			"name": "Dimmed Theme",
+			"name": "Dimmed Themes",
 			"description": "Dimmed Theme for Sublime Text 2/3",
 			"author": "uonick",
-			"homepage": "https://github.com/uonick/dimmed",
-			"last_modified": "2013-07-23 16:44:36",
+			"homepage": "http://uonick.github.io/dimmed/",
+			"last_modified": "2013-07-27 17:44:36",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.7",
+						"version": "0.8",
 						"url": "https://github.com/uonick/dimmed/packages.json"
 					}
 				]
