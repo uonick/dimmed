@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plist version="1.0">
 <dict>
+	<key>author</key>
+	<string>uonick</string>
 	<key>comment</key>
 	<string>Dimmed - Monokai</string>
 	<key>name</key>

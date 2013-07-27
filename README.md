@@ -4,12 +4,16 @@ Light theme for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 
 ## Screenshots
 ### Dimmed
+![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/dimmed.png?raw=true)
 
-![Screen1](http://cloud.github.com/downloads/uonick/dimmed/dimmed_gh1.png)
-![Screen2](http://cloud.github.com/downloads/uonick/dimmed/dimmed_gh2.png)
 ### Dimmed-Monokai
-![Monokai](https://github.com/uonick/dimmed/blob/gh-pages/images/monokai.png?raw=true)
+![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/monokai.png?raw=true)
 
+### Dimmed-Night
+![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/night.png?raw=true)
+
+### Dimmed-Storm
+![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/storm.png?raw=true)
 ## Install
 
 **With the Package Control plugin:** The easiest way to install Dimmed Theme is through Package Control, which can be found at this site: http://wbond.net/sublime_packages/package_control
