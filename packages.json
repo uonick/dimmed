@@ -6,11 +6,11 @@
 			"description": "Dimmed Theme for Sublime Text 2/3",
 			"author": "uonick",
 			"homepage": "http://uonick.github.io/dimmed/",
-			"last_modified": "2013-07-27 17:44:36",
+			"last_modified": "2013-10-07 10:44:36",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.8",
+						"version": "0.9",
 						"url": "https://github.com/uonick/dimmed/packages.json"
 					}
 				]
