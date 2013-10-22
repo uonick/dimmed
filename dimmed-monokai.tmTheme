@@ -58,7 +58,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9AA83A</string>
+				<string>#90A959</string>
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +130,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#8f5536</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,9 +172,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9B0000</string>
-				<key>background</key>
-				<string>#1E1E1E</string>
+				<string>#AC4142</string>
 			</dict>
 		</dict>
 		<dict>
@@ -202,7 +200,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#CE6700</string>
+				<string>#D28445</string>
 			</dict>
 		</dict>
 		<dict>
@@ -216,7 +214,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#6089B4</string>
+				<string>#6A9FB5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -307,7 +305,7 @@
 			<key>name</key>
 			<string>Meta Brace</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html</string>
+			<string>punctuation.section.embedded, meta.brace.erb.html</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -616,7 +614,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#D0B344</string>
+				<string>#f4bf75</string>
 			</dict>
 		</dict>
 		<dict>
