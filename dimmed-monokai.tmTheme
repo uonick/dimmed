@@ -466,7 +466,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#9872A2</string>
+				<string>##FFFF97</string>
 			</dict>
 		</dict>
 		<dict>
@@ -575,21 +575,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#676867</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CSS Property Value</string>
-			<key>scope</key>
-			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>
-    </string>
-				<key>foreground</key>
-				<string>#C7444A</string>
+				<string>#FFFFBF</string>
 			</dict>
 		</dict>
 		<dict>
