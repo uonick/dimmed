@@ -6,8 +6,14 @@ Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 ### Dimmed
 ![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/dimmed.png?raw=true)
 
+### Dimmed - Fluid
+![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/dimmed-fluid.png?raw=true)
+
 ### Dimmed-Monokai
 ![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/monokai.png?raw=true)
+
+### Dimmed-Monokai-NoContrast
+![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/monokai-nocontrast.png?raw=true)
 
 ### Dimmed-Night
 ![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/night.png?raw=true)
