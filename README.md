@@ -24,7 +24,7 @@ Once you install Package Control, restart ST2 and bring up the Command Palette (
 ## Manual Install
 
 * Download  [zip file]  (https://github.com/uonick/dimmed/zipball/master) from github
- or from [TmTheme Editor Gallery] (http://tmtheme-editor.herokuapp.com/#/Dimmed)
+ or from [TmTheme Editor Gallery] (http://tmtheme-editor.herokuapp.com/#/theme/Dimmed) or [Colorsublime] (http://colorsublime.com/?q=dimmed)
 * Extract to:
 
 * OS X:
