@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>author</key>
@@ -114,7 +115,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#8080FF</string>
+				<string>#78afc0</string>
 				<key>background</key>
 				<string>#1e1e1e</string>
 			</dict>
@@ -270,7 +271,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#676867</string>
+				<string>#d8d8d8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -326,7 +327,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#FF0B00</string>
+				<string>#ac4242</string>
 			</dict>
 		</dict>
 		<dict>
@@ -354,7 +355,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>#0080FF</string>
+				<string>#6089b4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -466,7 +467,7 @@
 				<string>
     </string>
 				<key>foreground</key>
-				<string>##FFFF97</string>
+				<string>#838383</string>
 			</dict>
 		</dict>
 		<dict>
@@ -707,5 +708,9 @@
 			</dict>
 		</dict>
 	</array>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.dimmed_monokai</string>
 </dict>
 </plist>
