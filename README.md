@@ -37,11 +37,11 @@ Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 
 
 ### Dimmed No Contrast
-![Dimmed](img/dimmed-nocontrast.png)
+![Dimmed](img/dimmed-no-contrast.png)
 
 
 ### Dimmed No Contrast v2
-![Dimmed](img/dimmed-nocontrast-v2.png)
+![Dimmed](img/dimmed-no-contrast-v2.png)
 
 
 ### Dimmed Night
