@@ -2,6 +2,13 @@
 
 Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 
+
+- [x] Dark themes
+- [x] Light themes
+- [x] Sepia themes
+
+[Test themes] (http://tmtheme-editor.herokuapp.com/#!/editor/theme/Dimmed)
+
 ## Screenshots
 ### Dimmed
 ![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/dimmed.png?raw=true)
@@ -27,7 +34,7 @@ Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 Once you install Package Control, restart ST2 and bring up the Command Palette (`Command+Shift+P` on OS X, `Control+Shift+P` on Linux/Windows). Select "Package Control: Install Package", wait while Package Control fetches the latest package list, then select `Dimmed`  when the list appears. The advantage of using this method is that Package Control will automatically keep Dimmed Theme up to date with the latest version.
 
 
-## Manual Install
+## Manual Install (not recommended)
 
 * Download  [zip file]  (https://github.com/uonick/dimmed/zipball/master) from github
  or from [TmTheme Editor Gallery] (http://tmtheme-editor.herokuapp.com/#/theme/Dimmed) or [Colorsublime] (http://colorsublime.com/?q=dimmed)
