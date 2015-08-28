@@ -9,24 +9,51 @@ Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 
 [Test themes] (http://tmtheme-editor.herokuapp.com/#!/editor/theme/Dimmed)
 
+[Download .ZIP] (https://github.com/uonick/dimmed/zipball/master)
+
+[Website] (http://uonick.github.io/dimmed/)
+
 ## Screenshots
+
 ### Dimmed
-![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/dimmed.png?raw=true)
+![Dimmed](img/dimmed.png)
 
-### Dimmed - Fluid
-![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/dimmed-fluid.png?raw=true)
 
-### Dimmed-Monokai
-![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/monokai.png?raw=true)
+### Dimmed Fluid
+![Dimmed](img/dimmed-fluid.png)
 
-### Dimmed-Monokai-NoContrast
-![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/monokai-nocontrast.png?raw=true)
 
-### Dimmed-Night
-![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/night.png?raw=true)
+### Dimmed Base16
+![Dimmed](img/dimmed-base16.png)
 
-### Dimmed-Storm
-![Dimmed](https://github.com/uonick/dimmed/blob/gh-pages/images/storm.png?raw=true)
+
+### Dimmed Monokai
+![Dimmed](img/dimmed-monokai.png)
+
+
+### Dimmed Storm
+![Dimmed](img/dimmed-storm.png)
+
+
+
+### Dimmed No Contrast
+![Dimmed](img/dimmed-nocontrast.png)
+
+
+### Dimmed No Contrast v2
+![Dimmed](img/dimmed-nocontrast-v2.png)
+
+
+### Dimmed Night
+![Dimmed](img/dimmed-night.png)
+
+
+### Dimmed Gitlab
+![Dimmed](img/dimmed-gitlab.png)
+
+
+
+
 ## Install
 
 **With the Package Control plugin:** The easiest way to install Dimmed Theme is through Package Control, which can be found at this site: [Package Control] (https://sublime.wbond.net/installation)
