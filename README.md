@@ -31,6 +31,10 @@ Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 ![Dimmed](img/dimmed-monokai.png)
 
 
+### Dimmed Phalcon
+![Dimmed](img/dimmed-phalcon.png)
+
+
 ### Dimmed Storm
 ![Dimmed](img/dimmed-storm.png)
 
