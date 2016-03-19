@@ -19,6 +19,17 @@ Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 ![Dimmed](img/dimmed.png)
 
 
+### Dimmed Gitlab
+![Dimmed](img/dimmed-gitlab.png)
+
+
+### Dimmed Spacegray 
+![Dimmed](img/dimmed-spacegray.png)
+
+### Dimmed Phalcon
+![Dimmed](img/dimmed-phalcon.png)
+
+
 ### Dimmed Fluid
 ![Dimmed](img/dimmed-fluid.png)
 
@@ -31,13 +42,8 @@ Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 ![Dimmed](img/dimmed-monokai.png)
 
 
-### Dimmed Phalcon
-![Dimmed](img/dimmed-phalcon.png)
-
-
 ### Dimmed Storm
 ![Dimmed](img/dimmed-storm.png)
-
 
 
 ### Dimmed No Contrast
@@ -51,11 +57,6 @@ Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
 ### Dimmed Night
 ![Dimmed](img/dimmed-night.png)
 
-
-### Dimmed Gitlab
-![Dimmed](img/dimmed-gitlab.png)
-
-### Dimmed Spacegray 
 
 
 ## Install
