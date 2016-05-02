@@ -1,6 +1,10 @@
-# Dimmed Color Scheme
+# Dimmed Color collection
 
-Dimmed themes for a [Sublime Text 2/3] (http://www.sublimetext.com/)
+[Sublime Text 2/3] (http://uonick.ru/dimmed/)
+
+[PHP Storm] (http://uonick.ru/dimmed-phpstorm/)
+
+[Atom](http://uonick.ru/dimmed-dark-ocean-syntax/)
 
 
 - [x] Dark themes
