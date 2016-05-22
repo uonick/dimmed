@@ -81,15 +81,15 @@ Once you install Package Control, restart ST2 and bring up the Command Palette (
 
 * OS X:
 
-        ~/Library/Application Support/Sublime Text 2/Packages/User/Dimmed
+        ~/Library/Application Support/Sublime Text 3/Packages/User/Dimmed
 
 * Linux:
 
-        ~/.config/sublime-text-2/Packages/User/Dimmed
+        ~/.config/sublime-text-3/Packages/User/Dimmed
 
 * Windows:
 
-        %APPDATA%\Sublime Text 2\Packages\User\Dimmed
+        %APPDATA%\Sublime Text 3\Packages\User\Dimmed
 
 * Select theme from `Preferences -> Color Scheme -> Dimmed Color Scheme -> dimmed or dimmed-monokai`
 
