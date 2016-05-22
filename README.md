@@ -23,11 +23,14 @@
 ![Dimmed](img/dimmed.png)
 
 
+### Dimmed OneDark
+![Dimmed](img/dimmed-onedark.png)
+
 ### Dimmed Gitlab
 ![Dimmed](img/dimmed-gitlab.png)
 
 
-### Dimmed Spacegray 
+### Dimmed Spacegray
 ![Dimmed](img/dimmed-spacegray.png)
 
 ### Dimmed Phalcon
