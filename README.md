@@ -15,7 +15,7 @@
 
 [Download .ZIP] (https://github.com/uonick/dimmed/zipball/master)
 
-[Website] (http://uonick.github.io/dimmed/)
+[Website] (https://uonick.github.io/dimmed/)
 
 ## Screenshots
 
