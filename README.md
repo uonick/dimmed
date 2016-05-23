@@ -1,4 +1,4 @@
-# Dimmed Color collection
+# Dimmed collection
 
 [Sublime Text 2/3] (https://uonick.ru/dimmed/)
 
