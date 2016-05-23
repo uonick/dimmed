@@ -1,10 +1,10 @@
 # Dimmed Color collection
 
-[Sublime Text 2/3] (http://uonick.ru/dimmed/)
+[Sublime Text 2/3] (https://uonick.ru/dimmed/)
 
-[PHP Storm] (http://uonick.ru/dimmed-phpstorm/)
+[PHP Storm] (https://uonick.ru/dimmed-phpstorm/)
 
-[Atom](http://uonick.ru/dimmed-dark-ocean-syntax/)
+[Atom](https://uonick.ru/dimmed-dark-ocean-syntax/)
 
 
 - [x] Dark themes
@@ -15,7 +15,7 @@
 
 [Download .ZIP] (https://github.com/uonick/dimmed/zipball/master)
 
-[Website] (https://uonick.github.io/dimmed/)
+[Website] (https://uonick.ru/dimmed/)
 
 ## Screenshots
 
