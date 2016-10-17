@@ -33,6 +33,8 @@
 ### Dimmed Spacegray
 ![Dimmed](img/dimmed-spacegray.png)
 
+[Highly recommended theme](https://github.com/andresmichel/one-dark-theme)
+
 ### Dimmed Phalcon
 ![Dimmed](img/dimmed-phalcon.png)
 
