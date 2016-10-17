@@ -19,14 +19,26 @@
 
 ## Screenshots
 
-### Dimmed
-![Dimmed](img/dimmed.png)
-
-
 ### Dimmed Ocean
+[Highly recommended UI theme](https://github.com/andresmichel/one-dark-theme)
+
 ![Dimmed](img/dimmed-ocean.png)
 
-+ [Highly recommended theme](https://github.com/andresmichel/one-dark-theme)
+#### Support
+* PHP
+* SQL
+* YML
+* VOLT
+* BLADE
+* JSON
+* SCSS
+* CSS
+* XML
+* HTML
+
+
+### Dimmed
+![Dimmed](img/dimmed.png)
 
 ### Dimmed Gitlab
 ![Dimmed](img/dimmed-gitlab.png)
@@ -102,4 +114,3 @@ Once you install Package Control, restart ST2 and bring up the Command Palette (
 [Download .ZIP] (https://github.com/uonick/dimmed/zipball/master)
 
 [Website] (http://uonick.github.io/dimmed/)
-
