@@ -23,10 +23,10 @@
 ![Dimmed](img/dimmed.png)
 
 
-### Dimmed OneDark
-![Dimmed](img/dimmed-onedark.png)
+### Dimmed Ocean
+![Dimmed](img/dimmed-ocean.png)
 
-[Highly recommended theme](https://github.com/andresmichel/one-dark-theme)
++ [Highly recommended theme](https://github.com/andresmichel/one-dark-theme)
 
 ### Dimmed Gitlab
 ![Dimmed](img/dimmed-gitlab.png)
@@ -35,7 +35,7 @@
 ### Dimmed Spacegray
 ![Dimmed](img/dimmed-spacegray.png)
 
-[Highly recommended theme](https://github.com/andresmichel/one-dark-theme)
++ [Highly recommended theme](https://github.com/andresmichel/one-dark-theme)
 
 ### Dimmed Phalcon
 ![Dimmed](img/dimmed-phalcon.png)
