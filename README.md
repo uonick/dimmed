@@ -26,6 +26,8 @@
 ### Dimmed OneDark
 ![Dimmed](img/dimmed-onedark.png)
 
+[Highly recommended theme](https://github.com/andresmichel/one-dark-theme)
+
 ### Dimmed Gitlab
 ![Dimmed](img/dimmed-gitlab.png)
 
