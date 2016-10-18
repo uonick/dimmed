@@ -19,11 +19,11 @@
                 <key>foreground</key>
                 <string>#eff1f5</string>
                 <key>invisibles</key>
-                <string>#343d46</string>
+                <string>#2e333f</string>
                 <key>lineHighlight</key>
                 <string>#2e333f</string>
                 <key>selection</key>
-                <string>#505b66</string>
+                <string>#3d4451</string>
             </dict>
         </dict>
         <dict>
@@ -552,8 +552,6 @@
                 <string>#a4bd8d</string>
             </dict>
         </dict>
-
-
         <dict>
             <key>name</key>
             <string>String Embedded Source</string>
