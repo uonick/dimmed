@@ -15,8 +15,6 @@
 
 [Download .ZIP](https://github.com/uonick/dimmed/zipball/master)
 
-[Website](https://uonick.ru/dimmed/)
-
 ## Screenshots
 
 ### Dimmed Ocean
