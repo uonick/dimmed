@@ -2,8 +2,6 @@
 
 [Sublime Text 2/3](https://git.io/dimmed)
 
-[PHP Storm](https://git.io/v78CH)
-
 [Atom](https://git.io/v78CS)
 
 
