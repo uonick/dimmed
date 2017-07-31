@@ -1,10 +1,10 @@
 # Dimmed collection
 
-[Sublime Text 2/3](https://uonick.ru/dimmed/)
+[Sublime Text 2/3](https://git.io/dimmed)
 
-[PHP Storm](https://github.com/uonick/dimmed-phpstorm)
+[PHP Storm](https://git.io/v78CH)
 
-[Atom](https://uonick.ru/dimmed-dark-ocean-syntax/)
+[Atom](https://git.io/v78CS)
 
 
 - [x] Dark themes
